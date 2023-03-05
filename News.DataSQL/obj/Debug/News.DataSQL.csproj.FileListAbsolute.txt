@@ -1,0 +1,6 @@
+C:\Users\shaha\source\repos\NewsProject\News.DataSQL\bin\Debug\News.DataSQL.dll
+C:\Users\shaha\source\repos\NewsProject\News.DataSQL\bin\Debug\News.DataSQL.pdb
+C:\Users\shaha\source\repos\NewsProject\News.DataSQL\obj\Debug\News.DataSQL.csproj.AssemblyReference.cache
+C:\Users\shaha\source\repos\NewsProject\News.DataSQL\obj\Debug\News.DataSQL.csproj.CoreCompileInputs.cache
+C:\Users\shaha\source\repos\NewsProject\News.DataSQL\obj\Debug\News.DataSQL.dll
+C:\Users\shaha\source\repos\NewsProject\News.DataSQL\obj\Debug\News.DataSQL.pdb
