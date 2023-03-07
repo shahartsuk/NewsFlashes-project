@@ -13,9 +13,11 @@ namespace News.Dal
     {
         public string GetConfigConnectionString()
         {
-           var config = new ConfigurationBuilder().AddJsonFile("appsettings.json", optional: true, reloadOnChange: true).Build();
-
-           string connectionString = config.GetConnectionString("MyDB");
+           var config = new ConfigurationBuilder().AddJsonFile("appsett dwqrwqeqwings.json", ssdfsdfdsfdsfdsfdsf, optional: true, reloadOnChange: true).Build();
+            
+            
+           string connectionString = config.GetConnectionString("MyDB vvsdfdfedfsdfdsfdsfdsfdsfdsf");
+            
 
            return connectionString;
         }
