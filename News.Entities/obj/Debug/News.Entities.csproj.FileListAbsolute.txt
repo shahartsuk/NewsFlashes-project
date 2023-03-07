@@ -7,3 +7,12 @@ C:\Users\shaha\source\repos\NewsProject\News.Entities\obj\Debug\News.Entities.cs
 C:\Users\shaha\source\repos\NewsProject\News.Entities\obj\Debug\News.Entities.csproj.CopyComplete
 C:\Users\shaha\source\repos\NewsProject\News.Entities\obj\Debug\News.Entities.dll
 C:\Users\shaha\source\repos\NewsProject\News.Entities\obj\Debug\News.Entities.pdb
+C:\Users\barra\OneDrive\מסמכים\GitHub\NewsFlashes-project-Server\News.Entities\bin\Debug\News.Entities.dll
+C:\Users\barra\OneDrive\מסמכים\GitHub\NewsFlashes-project-Server\News.Entities\bin\Debug\News.Entities.pdb
+C:\Users\barra\OneDrive\מסמכים\GitHub\NewsFlashes-project-Server\News.Entities\bin\Debug\News.Model.dll
+C:\Users\barra\OneDrive\מסמכים\GitHub\NewsFlashes-project-Server\News.Entities\bin\Debug\News.Model.pdb
+C:\Users\barra\OneDrive\מסמכים\GitHub\NewsFlashes-project-Server\News.Entities\obj\Debug\News.Entities.csproj.AssemblyReference.cache
+C:\Users\barra\OneDrive\מסמכים\GitHub\NewsFlashes-project-Server\News.Entities\obj\Debug\News.Entities.csproj.CoreCompileInputs.cache
+C:\Users\barra\OneDrive\מסמכים\GitHub\NewsFlashes-project-Server\News.Entities\obj\Debug\News.Entities.csproj.CopyComplete
+C:\Users\barra\OneDrive\מסמכים\GitHub\NewsFlashes-project-Server\News.Entities\obj\Debug\News.Entities.dll
+C:\Users\barra\OneDrive\מסמכים\GitHub\NewsFlashes-project-Server\News.Entities\obj\Debug\News.Entities.pdb
