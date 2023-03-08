@@ -7,6 +7,7 @@ C:\Users\shaha\source\repos\NewsProject\News.Entities\obj\Debug\News.Entities.cs
 C:\Users\shaha\source\repos\NewsProject\News.Entities\obj\Debug\News.Entities.csproj.CopyComplete
 C:\Users\shaha\source\repos\NewsProject\News.Entities\obj\Debug\News.Entities.dll
 C:\Users\shaha\source\repos\NewsProject\News.Entities\obj\Debug\News.Entities.pdb
+<<<<<<< HEAD
 C:\Users\shaha\source\repos\NewsProject\News.Entities\bin\Debug\News.Entities.dll.config
 C:\Users\shaha\source\repos\NewsProject\News.Entities\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\shaha\source\repos\NewsProject\News.Entities\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
@@ -44,3 +45,14 @@ C:\Users\shaha\source\repos\NewsProject\News.Entities\bin\Debug\System.Text.Enco
 C:\Users\shaha\source\repos\NewsProject\News.Entities\bin\Debug\System.Text.Json.xml
 C:\Users\shaha\source\repos\NewsProject\News.Entities\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\shaha\source\repos\NewsProject\News.Entities\bin\Debug\System.ValueTuple.xml
+=======
+C:\Users\barra\OneDrive\מסמכים\GitHub\NewsFlashes-project-Server\News.Entities\bin\Debug\News.Entities.dll
+C:\Users\barra\OneDrive\מסמכים\GitHub\NewsFlashes-project-Server\News.Entities\bin\Debug\News.Entities.pdb
+C:\Users\barra\OneDrive\מסמכים\GitHub\NewsFlashes-project-Server\News.Entities\bin\Debug\News.Model.dll
+C:\Users\barra\OneDrive\מסמכים\GitHub\NewsFlashes-project-Server\News.Entities\bin\Debug\News.Model.pdb
+C:\Users\barra\OneDrive\מסמכים\GitHub\NewsFlashes-project-Server\News.Entities\obj\Debug\News.Entities.csproj.AssemblyReference.cache
+C:\Users\barra\OneDrive\מסמכים\GitHub\NewsFlashes-project-Server\News.Entities\obj\Debug\News.Entities.csproj.CoreCompileInputs.cache
+C:\Users\barra\OneDrive\מסמכים\GitHub\NewsFlashes-project-Server\News.Entities\obj\Debug\News.Entities.csproj.CopyComplete
+C:\Users\barra\OneDrive\מסמכים\GitHub\NewsFlashes-project-Server\News.Entities\obj\Debug\News.Entities.dll
+C:\Users\barra\OneDrive\מסמכים\GitHub\NewsFlashes-project-Server\News.Entities\obj\Debug\News.Entities.pdb
+>>>>>>> origin/Bar

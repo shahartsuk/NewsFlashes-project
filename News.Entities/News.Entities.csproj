@@ -132,9 +132,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <Compile Include="ConfigDB.cs" />
     <Compile Include="DataLayer.cs" />
     <Compile Include="MainManager.cs" />
+=======
+>>>>>>> origin/Bar
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RequestGet.cs" />
     <Compile Include="RequestPost.cs" />

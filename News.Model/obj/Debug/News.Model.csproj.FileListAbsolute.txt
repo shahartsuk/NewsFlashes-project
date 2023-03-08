@@ -4,3 +4,9 @@ C:\Users\shaha\source\repos\NewsProject\News.Model\obj\Debug\News.Model.csproj.A
 C:\Users\shaha\source\repos\NewsProject\News.Model\obj\Debug\News.Model.csproj.CoreCompileInputs.cache
 C:\Users\shaha\source\repos\NewsProject\News.Model\obj\Debug\News.Model.dll
 C:\Users\shaha\source\repos\NewsProject\News.Model\obj\Debug\News.Model.pdb
+C:\Users\barra\OneDrive\מסמכים\GitHub\NewsFlashes-project-Server\News.Model\bin\Debug\News.Model.dll
+C:\Users\barra\OneDrive\מסמכים\GitHub\NewsFlashes-project-Server\News.Model\bin\Debug\News.Model.pdb
+C:\Users\barra\OneDrive\מסמכים\GitHub\NewsFlashes-project-Server\News.Model\obj\Debug\News.Model.csproj.AssemblyReference.cache
+C:\Users\barra\OneDrive\מסמכים\GitHub\NewsFlashes-project-Server\News.Model\obj\Debug\News.Model.csproj.CoreCompileInputs.cache
+C:\Users\barra\OneDrive\מסמכים\GitHub\NewsFlashes-project-Server\News.Model\obj\Debug\News.Model.dll
+C:\Users\barra\OneDrive\מסמכים\GitHub\NewsFlashes-project-Server\News.Model\obj\Debug\News.Model.pdb

@@ -4,3 +4,9 @@ C:\Users\shaha\source\repos\NewsProject\News.DataSQL\obj\Debug\News.DataSQL.cspr
 C:\Users\shaha\source\repos\NewsProject\News.DataSQL\obj\Debug\News.DataSQL.csproj.CoreCompileInputs.cache
 C:\Users\shaha\source\repos\NewsProject\News.DataSQL\obj\Debug\News.DataSQL.dll
 C:\Users\shaha\source\repos\NewsProject\News.DataSQL\obj\Debug\News.DataSQL.pdb
+C:\Users\barra\OneDrive\מסמכים\GitHub\NewsFlashes-project-Server\News.DataSQL\bin\Debug\News.DataSQL.dll
+C:\Users\barra\OneDrive\מסמכים\GitHub\NewsFlashes-project-Server\News.DataSQL\bin\Debug\News.DataSQL.pdb
+C:\Users\barra\OneDrive\מסמכים\GitHub\NewsFlashes-project-Server\News.DataSQL\obj\Debug\News.DataSQL.csproj.AssemblyReference.cache
+C:\Users\barra\OneDrive\מסמכים\GitHub\NewsFlashes-project-Server\News.DataSQL\obj\Debug\News.DataSQL.csproj.CoreCompileInputs.cache
+C:\Users\barra\OneDrive\מסמכים\GitHub\NewsFlashes-project-Server\News.DataSQL\obj\Debug\News.DataSQL.dll
+C:\Users\barra\OneDrive\מסמכים\GitHub\NewsFlashes-project-Server\News.DataSQL\obj\Debug\News.DataSQL.pdb
