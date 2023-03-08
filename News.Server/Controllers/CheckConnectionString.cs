@@ -1,5 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using News.Dal;
+using News.Entities;
 
 namespace News.Server.Controllers
 {
@@ -9,10 +9,9 @@ namespace News.Server.Controllers
     {
         [HttpGet("GetConnectionString")]
         
-        public JsonResult GetAllCitiesList()
+        public JsonResult CheckRequest()
         {
-            ConfigDB connectionString = new ConfigDB();
-            return new JsonResult(connectionString.GetConfigConnectionString());
+            return new JsonResult(MainManager.Instance.requestGet.XMLRequestGet());
         }
     }
 }

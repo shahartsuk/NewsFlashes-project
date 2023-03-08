@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace News.Model
+namespace MyUtilities
 {
     public class Class1
     {
