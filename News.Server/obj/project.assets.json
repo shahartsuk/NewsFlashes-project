@@ -507,19 +507,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\barra\\.nuget\\packages\\": {}
+    "C:\\Users\\shaha\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\barra\\OneDrive\\מסמכים\\GitHub\\NewsFlashes-project-Server\\News.Server\\News.Server.csproj",
+      "projectUniqueName": "C:\\Users\\shaha\\source\\repos\\NewsProject\\News.Server\\News.Server.csproj",
       "projectName": "News.Server",
-      "projectPath": "C:\\Users\\barra\\OneDrive\\מסמכים\\GitHub\\NewsFlashes-project-Server\\News.Server\\News.Server.csproj",
-      "packagesPath": "C:\\Users\\barra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\barra\\OneDrive\\מסמכים\\GitHub\\NewsFlashes-project-Server\\News.Server\\obj\\",
+      "projectPath": "C:\\Users\\shaha\\source\\repos\\NewsProject\\News.Server\\News.Server.csproj",
+      "packagesPath": "C:\\Users\\shaha\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\shaha\\source\\repos\\NewsProject\\News.Server\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\barra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\shaha\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -533,11 +533,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\barra\\OneDrive\\מסמכים\\GitHub\\NewsFlashes-project-Server\\News.Dal\\News.Dal.csproj": {
-              "projectPath": "C:\\Users\\barra\\OneDrive\\מסמכים\\GitHub\\NewsFlashes-project-Server\\News.Dal\\News.Dal.csproj"
+            "C:\\Users\\shaha\\source\\repos\\NewsProject\\News.Dal\\News.Dal.csproj": {
+              "projectPath": "C:\\Users\\shaha\\source\\repos\\NewsProject\\News.Dal\\News.Dal.csproj"
             },
-            "C:\\Users\\barra\\OneDrive\\מסמכים\\GitHub\\NewsFlashes-project-Server\\News.Entities\\News.Entities.csproj": {
-              "projectPath": "C:\\Users\\barra\\OneDrive\\מסמכים\\GitHub\\NewsFlashes-project-Server\\News.Entities\\News.Entities.csproj"
+            "C:\\Users\\shaha\\source\\repos\\NewsProject\\News.Entities\\News.Entities.csproj": {
+              "projectPath": "C:\\Users\\shaha\\source\\repos\\NewsProject\\News.Entities\\News.Entities.csproj"
             }
           }
         }
@@ -580,7 +580,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

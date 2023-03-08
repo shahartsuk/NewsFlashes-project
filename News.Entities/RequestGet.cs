@@ -2,19 +2,17 @@
 using System.Net.Http;
 using System.Threading.Tasks;
 
-namespace News.Server.Controllers
+namespace News.Entities
 {
-    public class RequestPost
+    public class RequestGet
     {
         static async Task Main(string[] args)
+
         {
             using (var client = new HttpClient())
             {
-                // Create a JSON payload to be sent with the request 
-                var payload = new { username = "example_username", password = "example_password" };
-
-                // Make a POST request to the URL 
-                var response = await client.PostAsJsonAsync("https://www.example.com/api/login", payload);
+                // Make a GET request to the URL 
+                var response = await client.GetAsync("https://www.example.com");
 
                 // Ensure the response was successful 
                 response.EnsureSuccessStatusCode();
