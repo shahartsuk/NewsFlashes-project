@@ -14,9 +14,13 @@ namespace News.Entities
         public static MainManager Instance { get { return _Instance; } }
         public RequestGet requestGet { get; set; }
         public RequestPost requestPost { get; set; }
+        public ConfigDB configDB { get; set; }
 
         public void Init()
         {
+            requestGet = new RequestGet();
+            requestPost = new RequestPost();
+            configDB = new ConfigDB();
         }
     }
 }

@@ -38,3 +38,4 @@ C:\Users\shaha\source\repos\NewsProject\News.Server\obj\Debug\net7.0\ref\News.Se
 C:\Users\shaha\source\repos\NewsProject\News.Server\bin\Debug\net7.0\News.Dal.dll
 C:\Users\shaha\source\repos\NewsProject\News.Server\bin\Debug\net7.0\News.Dal.pdb
 C:\Users\shaha\source\repos\NewsProject\News.Server\bin\Debug\net7.0\News.Dal.dll.config
+C:\Users\shaha\source\repos\NewsProject\News.Server\bin\Debug\net7.0\News.Entities.dll.config

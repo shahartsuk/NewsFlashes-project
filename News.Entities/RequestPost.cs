@@ -7,7 +7,7 @@ namespace News.Entities
 {
     public class RequestPost
     {
-        static async Task Main(string[] args)
+        public async Task XMLRequestPost()
         {
             using (var client = new HttpClient())
             {
